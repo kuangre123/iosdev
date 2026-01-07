@@ -20,7 +20,7 @@ description: 通用 iOS App 开发、构建、签名、测试与 App Store 上�
 
 ## 参考资料加载指引
 - 构建/签名/依赖与版本号 → `references/ios-development.md`
-- App Store 上架流程（中国） → `references/app-store-release-cn.md`
+- App Store 上架流程与审核常见问题（中国） → `references/app-store-release-cn.md`
 - IAP/订阅配置与测试 → `references/iap-subscription.md`
 - 隐私、ATS、安全与合规 → `references/privacy-security.md`
 
